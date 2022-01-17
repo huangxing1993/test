@@ -9,7 +9,7 @@
 import HelloWorld from './components/HelloWorld'
 
 export default {
-  // 深圳易宝软件我去你妈封闭
+  // 深圳易宝软件我去你de 
   name: 'App',
   components: {
     HelloWorld
