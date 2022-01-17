@@ -9,6 +9,7 @@
 import HelloWorld from './components/HelloWorld'
 
 export default {
+  // 深圳易宝软件我去你妈封闭
   name: 'App',
   components: {
     HelloWorld
@@ -24,5 +25,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
+
+  
 }
 </style>
